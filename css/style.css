@@ -1,0 +1,275 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+header{
+	font-family: 'Patua One', cursive;
+	background-color: #FAD4C0;
+	font-size: 20px;
+}
+
+.bienvenido{
+	background-image: url("../img/background.jpg");
+	background-position: top center;
+	background-size: cover;
+	padding-bottom: 95px;
+}
+
+.bienvenido h1{
+font-family: "Milk Kids";
+text-align: center;
+padding-top: 100px;
+color: #0F4942;
+font-size: 180px;
+}
+
+.biografia{
+background-color: #FCEEE8;
+}
+.biografia h1{
+color: #64B6AC;
+padding-top: 40px;
+font-family: "Milk Kids";
+}
+
+.biografia p{
+	padding-top: 10px;
+	font-family: "Pluto Light";
+}
+
+.biografia img{
+	padding: 50px 50px;
+}
+
+#artistas{
+	background-color: #DFD1CC;
+	padding: 100px 0;
+}
+
+#artistas h1{
+	font-family: "Milk Kids";
+	color: #64B6AC;
+	padding-top: 10px;
+padding-bottom: 20px;
+text-align: center;
+	
+}
+
+#peliculas{
+background-color: #D5C7C2;
+padding: 100px 0;	
+}
+
+#peliculas h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 10px;
+padding-bottom: 20px;
+text-align: center;
+}
+
+#hobbies{
+	background-color: #CCC0BC;
+	padding: 100px 0;;	
+}
+
+#hobbies h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 10px;
+padding-bottom: 20px;
+text-align: center;
+}
+
+footer{
+background-color: #FAD4C0;
+}
+footer img{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 200px;}
+
+footer h2{
+padding: 90px 0px;
+color: #64B6AC;
+font-family: 'Patua One', cursive;
+}
+
+footer p{
+color: #B09E99;
+font-family: 'Patua One', cursive;
+font-size: 30px;
+text-align: center;
+}
+
+#background{
+background-image: url("../img/background.jpg");
+	background-position: top center;
+	background-size: cover;
+	padding-bottom: 200px;	
+}
+
+#background h1{
+font-family: "Milk Kids";
+text-align: center;
+padding-top: 150px;
+color: #0F4942;
+font-size: 100px;
+text-transform: uppercase;
+}
+
+#servicios{
+background-color: #FCEEE8;
+padding-bottom: 400px;
+text-align: center;
+}
+
+#servicios img{
+	padding-top: 100px;
+	width: 150px;
+	
+}
+
+#servicios h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 10px;	
+}
+
+#servicios p{
+font-family: "Pluto Light";
+padding-left: 30px;
+padding-right: 30px;
+}
+
+#digitales h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+#anatomia h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 60px;
+padding-bottom: 30px;	
+}
+
+#tradicional h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 60px;
+padding-bottom: 30px;	
+}
+
+#tradicional2{
+padding-top: 30px;
+}
+
+#tradicional3{
+padding-top: 30px;	
+}
+
+#objetos h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 60px;
+padding-bottom: 30px;
+}
+
+#objetos{
+padding-top: 30px;	
+}
+
+#personajes{
+padding-top: 30px;	
+}
+
+#personajes h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 60px;
+padding-bottom: 30px;
+}
+
+#edicionvideo{
+padding-top: 30px;	
+	
+}
+
+#edicionvideo h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 60px;
+padding-bottom: 30px;
+}
+
+#animacion{
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+#animacion h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 60px;
+padding-bottom: 30px;
+}
+
+
+#info{
+padding-top: 30px;
+padding-bottom: 60px;
+}
+
+#info h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 60px;
+padding-bottom: 30px;	
+}
+
+#contact-form{
+	background-color: #FCEEE8;
+padding-bottom: 400px;
+text-align: center;
+padding: 30px 0;
+}
+
+#contact-form h1{
+font-family: "Milk Kids";
+color: #64B6AC;
+padding-top: 30px;
+padding-bottom: 30px;	
+}
+
+#contact-form .info-form{
+	background-color: #FCEEE8;
+	padding: 30px 350px 50px;
+	text-align: center;
+	box-shadow: 0px 0px 30px 0px #ddd;
+
+}
+
+#contact-form input, #contact-form textarea{
+	padding: 10px;
+	border-radius: 0px;
+	border-width: 5px;
+	border-color: #64B6AC; 
+}
+
+footer .la-twitter{
+color: #64B6AC;
+font-size: 40px;
+}
+
+footer .la-facebook{
+color: #64B6AC;
+font-size: 40px;
+}
+
+footer .la-instagram{
+color: #64B6AC;
+font-size: 40px;
+}
